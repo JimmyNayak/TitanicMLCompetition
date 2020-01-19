@@ -136,6 +136,4 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-Titanic.py
-data/
-my_submission.csv
+
